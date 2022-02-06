@@ -22,8 +22,11 @@ Module 7 - SQL
 
 ## Summary: 
 o	30% of the work force will need to be replaced to cover for the retirement of 72,458 employees. As you can see above the positions and departments that will be the hardest hit by this "silver tsunami".
+
 o	There are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. ~ 1 mentor for 109 employees… does not seem reasonable.
+
 Additional queries that would be helpful to finding a solution are:
+
 1.	Figuring out the optimal number of Employees to Mentors and expanding or creating a separate scenario of mentor eligible employees over a greater birth year span.
 2.	Further analyzing the employees ready to retire and categorizing them into groups so they can essentially retire out in steps so not one department or type of employee/title all leave at once. Extra incentive may be required for this sort of plan.
 3.	Start building a query to be proactive on the coming years of retirement so actions can be taken NOW to ensure the company is in a better position for this.
