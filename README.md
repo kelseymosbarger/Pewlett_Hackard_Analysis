@@ -9,10 +9,12 @@ Module 7 - SQL
 ## Results: 
 •	There are 72,458 employees at the company that are eligible for retirement. This is a large portion of the workforce, making up 30% of the total 240,124 employees at Pewlet Hackard.
 •	As you can see by the table below a break out of all of the individuals by title ready for retirement, 64% of these folks are in tenured/senior positions.
- 
+ ![image](https://user-images.githubusercontent.com/94019661/152702477-bc12aae9-5578-41de-9cd0-6aae8b4f55a1.png)
+
 
 •	In the next table you will see the number if employees retiring by department – Development and production will lose the largest positions of their teams.
- 
+ ![image](https://user-images.githubusercontent.com/94019661/152702480-950f956c-103c-44bc-8c09-5a2997fb345d.png)
+
 
 •	There is likely to be some issues with having enough mentors for this new generation of PH employees. We have people from a 4 year birth span retiring and are only allowing a 1 year span of mentors to replace them… so I think we need to widen the mentor age eligibility. With the current process there are only 1,549 employees eligible to be mentors.
 
